@@ -1,0 +1,9 @@
+name: testTaiwan
+account: jmyang
+server: shinyapps.io
+appId: 149629
+bundleId: 672271
+url: https://jmyang.shinyapps.io/testTaiwan/
+when: 1483808509.8625
+asMultiple: FALSE
+asStatic: FALSE
